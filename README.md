@@ -7,6 +7,7 @@ https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%20v2%20(New)%20student
 ![](https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%202%20(3).jpeg)
 # Lab 3
 https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%203%20-%20printed.pdf
+
 ![](https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%203.jpeg)
 # Project
   ## Part 1 (Basic Design)
