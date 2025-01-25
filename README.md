@@ -1,5 +1,6 @@
 # Lab 1
 https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%201.docx
+![](https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%201.jpeg)
 # Lab 2
 https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%20v2%20(New)%20student%20version%202023242.pdf
 ![](https://github.com/LauZhiYing/Digital-Logic/blob/main/Lab%202%20(1).jpeg)
